@@ -1,0 +1,4 @@
+Project local alias - mvnTestNG
+Local Project Name - MavennTestNGSample
+GITHub Repo URL - https://github.com/TilakQA/MavennTestNG
+GITHub Repo Clone - https://github.com/TilakQA/MavennTestNG.git
