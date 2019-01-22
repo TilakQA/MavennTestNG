@@ -8,6 +8,5 @@ public class AppTest extends App {
 	public void test(){
 		getDriver().findElement(By.id("search-query")).sendKeys("MatchBox");
 		getDriver().findElement(By.xpath("//button[@value='Search']")).click();
-		closeBrowser();
 	}
 }
