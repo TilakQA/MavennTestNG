@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="49601" started-at="2019-01-16T05:48:25Z" finished-at="2019-01-16T05:49:14Z">
+  <suite name="Default suite" duration-ms="4114" started-at="2019-01-28T09:45:55Z" finished-at="2019-01-28T09:45:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="49601" started-at="2019-01-16T05:48:25Z" finished-at="2019-01-16T05:49:14Z">
-      <class name="com.MavenTest.MavenTestNGSample.AppTest">
-        <test-method status="PASS" signature="chromeTest()[pri:0, instance:com.MavenTest.MavenTestNGSample.AppTest@77f99a05]" name="chromeTest" is-config="true" duration-ms="31331" started-at="2019-01-16T05:48:25Z" finished-at="2019-01-16T05:48:56Z">
+    <test name="Default test" duration-ms="4114" started-at="2019-01-28T09:45:55Z" finished-at="2019-01-28T09:45:59Z">
+      <class name="com.MavenTest.MavenTestNGSample.ReadingTestData">
+        <test-method status="PASS" signature="initApachePOI()[pri:0, instance:com.MavenTest.MavenTestNGSample.ReadingTestData@ed9d034]" name="initApachePOI" duration-ms="4033" started-at="2019-01-28T09:45:55Z" finished-at="2019-01-28T09:45:59Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- chromeTest -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.MavenTest.MavenTestNGSample.AppTest@77f99a05]" name="test" duration-ms="18172" started-at="2019-01-16T05:48:56Z" finished-at="2019-01-16T05:49:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- com.MavenTest.MavenTestNGSample.AppTest -->
+        </test-method> <!-- initApachePOI -->
+      </class> <!-- com.MavenTest.MavenTestNGSample.ReadingTestData -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

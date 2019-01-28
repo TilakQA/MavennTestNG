@@ -19,7 +19,6 @@ public class App
 		driver.get("https://etsy.com");
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		
 	}
 	
 	public WebDriver getDriver() {
